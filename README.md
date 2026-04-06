@@ -4,6 +4,23 @@
 
 ---
 
+### Jump to your setup
+
+| | |
+|:---:|:---:|
+| [🍎 **Mac Setup** — jump to Part A](#part-a-mac-setup) | [🪟 **Windows Setup** — jump to Part B](#part-b-windows-setup) |
+
+---
+
+### Accounts you'll need to create first
+
+| | | |
+|:---:|:---:|:---:|
+| [🐙 **Create GitHub account**](https://github.com/signup) | [▲ **Create Vercel account**](https://vercel.com/signup) | [✳️ **Create Claude account**](https://claude.ai/signup) |
+| Free | Free | $20/month (Pro plan) |
+
+---
+
 ## What You're Setting Up
 
 By the end of this guide you will have three tools installed and connected:
