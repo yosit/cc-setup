@@ -10,9 +10,9 @@ By the end of this guide you will have three tools installed and connected:
 
 | Tool | What it does | Cost |
 |------|-------------|------|
-| **GitHub** | Stores your code safely online — like Google Drive, but for code | Free |
-| **Vercel** | Publishes your websites and apps to the internet instantly | Free to start |
-| **Claude Code** | AI coding assistant that runs on your desktop | $20/month |
+| **[GitHub](https://github.com/signup)** | Stores your code safely online — like Google Drive, but for code | Free |
+| **[Vercel](https://vercel.com/signup)** | Publishes your websites and apps to the internet instantly | Free to start |
+| **[Claude Code](https://claude.ai/download)** | AI coding assistant that runs on your desktop | $20/month |
 
 These three tools work together. Claude Code writes the code, GitHub saves it, and Vercel puts it online.
 
@@ -28,8 +28,7 @@ Do this section first, in a web browser. You do not need to touch the terminal y
 
 ### 1.1 Create a GitHub Account
 
-1. Open your browser and go to **github.com**
-2. Click **Sign up**
+1. Open your browser and go to **[github.com/signup](https://github.com/signup)**
 3. Enter your email address, create a password, and choose a username
    > Your username will be visible to others. Keep it simple and professional, such as `jane-smith` or `jsmith-dev`. Avoid spaces.
 4. Complete the puzzle or verification step GitHub shows you
@@ -47,9 +46,8 @@ Do this section first, in a web browser. You do not need to touch the terminal y
 
 Vercel is where your apps and websites will live once they are built.
 
-1. Go to **vercel.com**
-2. Click **Sign Up**
-3. Select **Continue with GitHub**
+1. Go to **[vercel.com/signup](https://vercel.com/signup)**
+2. Select **Continue with GitHub**
 
 > **What you'll see:** A GitHub screen will appear asking *"Authorize Vercel?"* — click the green **Authorize Vercel** button. You will be taken back to Vercel automatically.
 
@@ -66,8 +64,7 @@ Vercel is where your apps and websites will live once they are built.
 
 Claude Code requires a **Claude Pro** subscription at **$20 per month**. This is what powers the AI.
 
-1. Go to **claude.ai**
-2. Click **Sign up**
+1. Go to **[claude.ai/signup](https://claude.ai/signup)**
 3. Enter your email and create a password, or click **Continue with Google** if you prefer
 4. Verify your email address by clicking the link Claude sends you
 5. Once logged in, look for your name or a small icon in the **bottom left corner** of the screen
@@ -239,9 +236,8 @@ You will see *"Congratulations! You are now logged in."*
 
 ### A7: Download and Install Claude Code Desktop
 
-1. Open your browser and go to **claude.ai**
-2. Look for a **Download** link — it is usually in the top navigation or in your account menu
-3. Download the **Mac** version
+1. Open your browser and go to **[claude.ai/download](https://claude.ai/download)**
+2. Download the **Mac** version
 4. Open your **Downloads** folder and double-click the downloaded file (it will end in `.dmg`)
 
 > **What you'll see:** A window with the Claude Code icon and an arrow pointing to an Applications folder icon.
@@ -426,9 +422,8 @@ You will see *"Congratulations! You are now logged in."*
 
 ### B8: Download and Install Claude Code Desktop
 
-1. Open your browser and go to **claude.ai**
-2. Look for a **Download** link in the navigation or your account menu
-3. Download the **Windows** version
+1. Open your browser and go to **[claude.ai/download](https://claude.ai/download)**
+2. Download the **Windows** version
 4. Open your **Downloads** folder and double-click the installer file (it ends in `.exe`)
 
 > **What you'll see:** Windows may show a blue warning screen saying *"Windows protected your PC."* This appears for new software that Windows has not seen before. It is safe to proceed.
